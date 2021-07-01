@@ -1,4 +1,4 @@
-# Github-HomePage-UI
+# GitHub-HomePage-UI
 The UI of the Home page of GitHub.
 
 # TECH STACK
